@@ -1,0 +1,1 @@
+Halo, ini adalah konten dari script.txt! AJAX Berhasil!
